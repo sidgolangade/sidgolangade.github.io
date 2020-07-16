@@ -2,7 +2,7 @@
 
 # Hi, Welcome to My Portfolio Website
 
-Portfolio Website Link: [siddhantgolangade.github.io](https://sidgolangade.github.io/)
+Portfolio Website Link: [sidgolangade.github.io](https://sidgolangade.github.io/)
 
 LinkedIn: [Siddhant Golangade](https://www.linkedin.com/in/sidgolangade/)
 
