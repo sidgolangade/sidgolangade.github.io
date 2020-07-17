@@ -155,7 +155,6 @@
 				
                     <script type="text/javascript">
                         var skills = ["English", "Hindi", "Marathi"];
-                        var markings = ["Working Proficiency", "Fluent", "Fluent"];
                         var value = [95, 100, 100];
                         for (let i = 0; i < skills.length; i++) {
                             var dir = (i % 2 == 0) ? "Right" : "Left";
@@ -165,13 +164,13 @@
                                       <h3>' + skills[i] + '</h3>\
                                       <div class="progress">\
                                           <div class="progress-bar color-' + (i + 1) + '" role="progressbar" aria-valuenow="' + value[i] + '" aria-valuemin="0" aria-valuemax="100" style="width:' + value[i] + '%">\
-                                              <span>' + markings[i] + '%</span>\
+                                              <span>' + value[i] + '%</span>\
                                           </div>\
                                       </div>\
                                   </div>\
                               </div>');
                         }
-		   </script>
+                    </script>
                 </div>
             </div>
     </section>
